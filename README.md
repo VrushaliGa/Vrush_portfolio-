@@ -1,4 +1,4 @@
-# Vrush_portfolio-
+#visulization work
 Analytics Portfolio 
 # [Project 1: Kidnapping Ratio in Ontaio, Alberta, British Columbia]
 *Dataset of ON, BC and AB of all the crime have been taken to analyze one crime, kidnapping in those provinces.
